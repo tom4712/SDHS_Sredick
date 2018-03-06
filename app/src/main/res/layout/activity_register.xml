@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="kr.hs.sdh.fitbit.sdhs_sredick.RegisterActivity"
+    android:orientation="vertical"
+    android:background="@drawable/loginbackblur">
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginBottom="100dp"
+        android:layout_marginTop="160dp">
+
+
+    <EditText
+        android:textColorHint="#bababa"
+        android:textColor="#bababa"
+        android:layout_weight="1"
+        android:hint="Email.."
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <EditText
+        android:textColorHint="#bababa"
+        android:textColor="#bababa"
+        android:layout_weight="1"
+        android:hint="Passworld"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <EditText
+        android:textColorHint="#bababa"
+        android:textColor="#bababa"
+        android:layout_weight="1"
+        android:hint="RE Passworld"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="7"
+        android:orientation="horizontal">
+    <Button
+        android:text="CANCLE"
+        android:background="#57f9f9f9"
+        android:id="@+id/cancels"
+        android:layout_weight="1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+        <Button
+            android:background="#57f9f9f9"
+            android:text="REGISTER"
+            android:id="@+id/registers"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

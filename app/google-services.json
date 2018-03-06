@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "947614590877",
+    "firebase_url": "https://sdhs-sredick.firebaseio.com",
+    "project_id": "sdhs-sredick",
+    "storage_bucket": "sdhs-sredick.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947614590877:android:997ee4b3cd7afc28",
+        "android_client_info": {
+          "package_name": "kr.hs.sdh.fitbit.sdhs_sredick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "947614590877-nodb02daop0l2276bevksoli0t6al2j2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kr.hs.sdh.fitbit.sdhs_sredick",
+            "certificate_hash": "70a7ae52b72ad8510d81e680577e9ba691924e37"
+          }
+        },
+        {
+          "client_id": "947614590877-mng84vva3lf79t7jlgun9enqfum3p6j8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVSpRBDainoBeK2xbyYK3x_FsSVweuLy0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "947614590877-mng84vva3lf79t7jlgun9enqfum3p6j8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
