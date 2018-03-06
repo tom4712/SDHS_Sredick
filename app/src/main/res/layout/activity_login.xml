@@ -80,6 +80,7 @@
 
 
                         <RadioButton
+                            android:id="@+id/remember"
                             android:text="Remember me"
                             android:layout_marginLeft="50dp"
                             android:layout_width="match_parent"
